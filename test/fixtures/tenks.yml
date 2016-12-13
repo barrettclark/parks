@@ -1,0 +1,37 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  unique1: 1
+  unique2: 1
+  two: 1
+  four: 1
+  ten: 1
+  twenty: 1
+  hundred: 1
+  thousand: 1
+  twothousand: 1
+  fivethous: 1
+  tenthous: 1
+  odd: 1
+  even: 1
+  stringu1: MyString
+  stringu2: MyString
+  string4: MyString
+
+two:
+  unique1: 1
+  unique2: 1
+  two: 1
+  four: 1
+  ten: 1
+  twenty: 1
+  hundred: 1
+  thousand: 1
+  twothousand: 1
+  fivethous: 1
+  tenthous: 1
+  odd: 1
+  even: 1
+  stringu1: MyString
+  stringu2: MyString
+  string4: MyString
